@@ -1,0 +1,4 @@
+Stock Portfolio Summary
+AAPL - Qty: 180, Price: 180, Value: 32400
+
+Total Investment: 32400
